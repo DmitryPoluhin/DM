@@ -576,4 +576,19 @@ button {
 
 .news__contact {
   margin-bottom: 7.4rem;
-}/*# sourceMappingURL=main.css.map */
+}
+
+
+/* media  */
+
+@media (width < 1024px) {
+  html {
+    font-size: calc(100vw / 1024 * 10);
+  }
+}
+
+
+
+
+
+/*# sourceMappingURL=main.css.map */
