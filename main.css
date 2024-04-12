@@ -30,6 +30,11 @@ svg {
   height: 100%;
 }
 
+input {
+  border: nome;
+  outline: none;
+}
+
 button {
   background-color: transparent;
   border: none;
