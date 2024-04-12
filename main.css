@@ -577,7 +577,7 @@ button {
 
 @media (max-width: 1024px) {
   html {
-    font-size: calc(100vw / 1024 * 10);
+    font-size: 55%;
   }
 }
 
